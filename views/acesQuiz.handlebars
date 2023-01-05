@@ -1,0 +1,125 @@
+
+<head>
+  <link rel="stylesheet" href="/css/aces.css">
+</head>
+<body>
+  <nav class="nav">
+    <ul class="nav-list"></ul>
+      <li class="nav-list-item"><a href="#logIn" class="nav-list-item">&nbsp;&nbsp; Sign In &nbsp;&nbsp;</a></li>
+      <li class="nav-list-item"><a href="/" class="nav-list-item">&nbsp;&nbsp;Home&nbsp;&nbsp;</a></li>
+      <li class="nav-list-item"><a href="/river" class="nav-list-item">&nbsp;&nbsp;The River of Cruelty&nbsp;&nbsp;</a></li>
+      <li class="nav-list-item"><a href="/changeProcess" class="nav-list-item">&nbsp;&nbsp;The Change Process&nbsp;&nbsp;</a></li>
+      <li class="nav-list-item"><a href="/aces" class="nav-list-item">&nbsp;&nbsp;ACEs&nbsp;&nbsp;</a></li>
+    </ul>
+  </nav>
+  <header class="header">
+    <div class="header__logo-box">
+        <img src="img/reallogo.png" alt="Logo" class="header__logo">
+    </div>
+    <div class="header__text-box">
+        <h1 class="heading-primary">
+          <span class="heading-primary--main">Peaceful Families</span>
+          <span class="heading-primary--sub">Justice Involved Women</span>
+        </h1>
+    </div>
+  </header>
+  <main>
+    <section class="section-about">
+      <form>
+          <div class="u-center-text">
+              <h2 class="heading-secondary aceTestHeader">ACE Test</h2>
+          </div>
+          <div class="info u-center-text u-margin-bottom-big">
+              <h2 class="quizIntro">Answer 10 confidential questions and discover your health risks and prevention strategies.</h2>
+              <p class="tableTop"><em>Before the age of 18...</em></p>
+          </div>
+          <table>
+            <tr class="trow" data-questionNumber="1">
+              <td class="question">Did a parent of other adult in the household <em>often or very often...</em><br>
+                  Swear at you, insult you, put you down, or humiliate you?<br><b class="or">or</b><br>
+                  Act in a way that made you feel afraid that you may be physically hurt?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="2">
+              <td class="question">Did a parent of other adult in the household <em>often or very often...</em><br>
+                  Push, grab, slap, or throw something at you?<br><b class="or">or</b><br>
+                  <em>Ever</em> hit you so hard that you had marks or were injured?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="3">
+              <td class="question">Did an adult or person at least five years older than you <em>ever...</em><br>
+                Touch or fondle you or have you touch their body in a sexual way?<br><b class="or">or</b><br>
+                Attempt or actually have oral, anal, or vaginal intercourse with you?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="4">
+              <td class="question">Did you <em>often</em> feel that...<br>
+                 No one in your family loved you or thought you were important or special?<br><b class="or">or</b><br>
+                Your family didn't look out for each other, feel close to each other, or support each other?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="5">
+              <td class="question">Did you <em>often</em> feel that...<br>
+                      You didn't have enough to eat, had to wear dirty clothes, or had no one to protect you?<br><b class="or">or</b><br>
+                      Your parents were too drunk or too high to take care of you? <br><b class="or">or</b><br>You were  neglected to be taken to the doctor if you needed it?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="6">
+              <td class="question">Were you parents <em>ever</em> separated or divorced?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="7">
+              <td class="question">Was your mother or stepmother...<br><em>Often or very often</em> pushed, grabbed slapped, or had something thrown at her?<br><b class="or">or</b><br><em>Sometimes or often</em> kicked, bitten, hit with a fist, or hit with something hard?<br><b class="or">or</b><br>
+                <em>Ever</em> repeatedly hit over at least a few minutes or threatened with a gun or knife?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="8">
+              <td class="question">Did you live with anyone who was a problem drinker or who used drugs?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="9">
+              <td class="question">Was a household member depressed or mentally ill? <br><b class="or">or</b><br> Did a household member attempt suicide?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+            <tr class="trow" data-questionNumber="10">
+              <td class="question">Did a household member go to prison?</td>
+              <td class="yes"><input required type="button" value="Yes" class="y" onclick="setAnswer(this)"></td>
+              <td class="no"><input required type="button" value="No" class="n" onclick="setAnswer(this)"></td>
+            </tr>
+          </table>
+          <div class="u-center-text u-margin-top-huge">
+              <div><a href="#aceResults" type="submit" id="grade" class="btn btn--green">Grade Quiz</a></div>
+          </div>
+      </form>
+    </section>
+  </main>
+  <div class="popup" id="aceResults">
+    <div class="popup__content">
+        <div class="popup__right">
+          <a href="#section-tours" class="popup__close">&times;</a>
+          <h2 class="aceScore">Your ACE Score: <span id="score">0</span></h2>
+          <h3 class="heading-tertiary u-margin-bottom-small">Now that you have your ACE score, what does it mean?</h3>
+          <p class="popup__text">
+            <em>The higher your ACE score, the higher your risk of health and social problems.</em><br>
+                As your ACE score increases, so does the risk of disease, social and emotional problems.<br>
+                An ACE score of just 1 sufficiently traumatizes us so that we are twice as likely to become an alcoholic.<br>
+                <em>With an ACE score of 4 or more, things start getting serious. The likelihood of chronic pulmonary lung disease increases 390 percent; hepatitis, 240 percent; depression 460 percent; suicide, 1,220 percent.</em><br>
+                The most important thing to remember is that the ACE score is meant as a guideline: If you experienced other types of toxic stress over months or years, then those would likely increase your risk of health consequences as well.<br>
+                Fortunately, our brains and lives are somewhat plastic, which means our mental and physical health can improve. The appropriate integration of resilience factors born out of ACE concepts — such as asking for help, developing trusting relationships, forming a positive attitude, listening to feelings — can help people improve their lives.<br>
+          </p>
+          <a href="/aces/#aceTest" class="btnMore btn">more info</a>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/aces.js"></script>
+  </body>

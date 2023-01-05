@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sum",
+				"submitWord"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"anima",
+				"animation-duration\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"pri",
+				"privateTest"
+			],
+			[
+				"inner",
+				"innerFn"
+			],
+			[
+				"move",
+				"move_eggs"
+			],
+			[
+				"canvas",
+				"canvas_width"
+			],
+			[
+				"score",
+				"score_text"
+			],
+			[
+				"egg",
+				"egg_speed"
+			],
+			[
+				"egg_",
+				"egg_y2"
+			],
+			[
+				"catche",
+				"catcher_y"
+			],
+			[
+				"ca",
+				"catcher_x2"
+			],
+			[
+				"cat",
+				"catcher_x"
+			],
+			[
+				"lives",
+				"lives_remaining"
+			],
+			[
+				"mo",
+				"move_eggs"
+			],
+			[
+				"crea",
+				"create_egg"
+			],
+			[
+				"live",
+				"lives_remaining"
+			],
+			[
+				"can",
+				"canvas_height"
+			],
+			[
+				"com",
+				"computer_score"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"player",
+				"player_score"
+			],
+			[
+				"auth",
+				"authors"
+			],
+			[
+				"au",
+				"authors"
+			],
+			[
+				"autor",
+				"authors"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"ne",
+				"newPost"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"order",
+				"orderPage"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"class",
+				"classToSet"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"tot",
+				"totaltime"
+			],
+			[
+				"other",
+				"otherActor"
+			],
+			[
+				"actor",
+				"actorAt"
+			],
+			[
+				"wobble",
+				"wobbleSpeed"
+			],
+			[
+				"this",
+				"thisStep"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"dr",
+				"drawBackground"
+			],
+			[
+				"sim",
+				"simpleLevelPlan"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"word",
+				"word1"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"str",
+				"strArr"
+			],
+			[
+				"bonus",
+				"bonusBoxes"
+			],
+			[
+				"bon",
+				"bonusBoxes"
+			],
+			[
+				"clcik",
+				"clickedBoxes"
+			],
+			[
+				"click",
+				"clickedBoxes"
+			],
+			[
+				"letter",
+				"letterArr"
+			],
+			[
+				"leter",
+				"letterBar"
+			],
+			[
+				"spee",
+				"speedUpValue"
+			],
+			[
+				"modify",
+				"modifyYSpeedBy"
+			],
+			[
+				"y",
+				"ySpeed"
+			],
+			[
+				"col",
+				"collideWithPlayer"
+			],
+			[
+				"mod",
+				"modifyXSpeed"
+			],
+			[
+				"x",
+				"xSpeed"
+			],
+			[
+				"key",
+				"keyInfo"
+			],
+			[
+				"he",
+				"heldDown"
+			],
+			[
+				"coll",
+				"collideWithPlayer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"paddleBottomWall"
+			],
+			[
+				"Pa",
+				"paddleRightWall"
+			],
+			[
+				"ren",
+				"renderBall"
+			],
+			[
+				"c",
+				"canvas"
+			],
+			[
+				"re",
+				"reverseArrayInPlace"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"random",
+				"randomBox"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"check",
+				"check3"
+			],
+			[
+				"spli",
+				"splice"
+			],
+			[
+				"cp",
+				"Capone"
+			],
+			[
+				"patt",
+				"pattern1"
+			],
+			[
+				"Al",
+				"Alphonse"
+			],
+			[
+				"i",
+				"italic\tfont"
+			],
+			[
+				"kn",
+				"knownAliases4"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"ran",
+				"randomWord"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"border-s",
+				"border-spacing\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Codestudent/Desktop/vocableeBETA/api/connections/db.js",
+		"/C/Users/Codestudent/Desktop/vocableeBETA/api/routes/controllers/dbControllers.js",
+		"/C/Users/Codestudent/Desktop/vocableeBETA/api/models/clientSchema.js",
+		"/C/Users/Codestudent/Desktop/vocableeBETA/app/routing/appRoutes.js",
+		"/C/Users/Codestudent/Desktop/vocableeBETA/api/routes/dbroutes.js",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableeBETA/package.json",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableeBETA/app/public/index.html",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableyBETA/app/public/js/js.js",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableyBETA/app/public/js/timer.js",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableyBETA/app/public/css/style.css",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Unfinished Projects/vocableyBETA/app/public/index.html",
+		"/C/Users/Codestudent/Desktop/Voorhees/Voorhees_2020/My Projects/Finished Projects/FPI FINAL/app/public/css/change.css",
+		"/C/Users/Codestudent/Desktop/chatBot/js/chatBot.js",
+		"/C/Users/Codestudent/Desktop/chatBot/css/styles.css",
+		"/C/Users/Codestudent/Desktop/chatBot/index.html",
+		"/C/Users/Codestudent/Desktop/chatBot/js/dictionary.js",
+		"/C/Users/Codestudent/Desktop/Books/Interview Preparation/Behavioral Questions.htm",
+		"/C/Users/Codestudent/Desktop/Books/other/JS Interview Algorithms.pdf",
+		"/C/Users/Codestudent/Desktop/python projects/chatBot/index.html",
+		"/C/Users/Codestudent/Desktop/python projects/rockPaperScissors.py",
+		"/C/Users/Codestudent/Documents/Voorhees/Voorhees_2020/My Projects/Practice/JavaScript Practice/js_challenges.html",
+		"/C/Users/Codestudent/Desktop/closure.js",
+		"/C/Users/Codestudent/Desktop/python projects/game.py",
+		"/C/Users/Codestudent/Desktop/game.py",
+		"/C/Users/Codestudent/Desktop/rockPaperScissors.py",
+		"/C/Users/Codestudent/Desktop/robotBuilder.py",
+		"/C/Users/Codestudent/Desktop/mutantRainbow.py",
+		"/C/Users/Codestudent/Desktop/practice.py",
+		"/C/Users/Codestudent/Desktop/myFirstPython.py",
+		"/C/Users/Codestudent/Desktop/Amber/react/reactPractice.html",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/js/bootstrap.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/js/jquery.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/js/arrangements.js",
+		"/C/Users/Codestudent/Desktop/js.js",
+		"/C/Users/Codestudent/Desktop/Amber/practice.html",
+		"/C/Users/Codestudent/Desktop/Amber/practice.js",
+		"/C/Users/Codestudent/Desktop/Amber/ghostGame/server.js",
+		"/C/Users/Codestudent/Desktop/React Practice/React Practice/react/build/babel.min.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/js/js.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/app.js",
+		"/C/Users/Codestudent/Desktop/Amber/ghostGame.zip",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/routes/routes.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/controllers/controller.js",
+		"/C/Users/Codestudent/Desktop/beginnerMongo/index.html",
+		"/C/Users/Codestudent/Desktop/beginnerMongo/server.js",
+		"/C/Users/Codestudent/Desktop/beginnerMongo/schema.js",
+		"/C/Users/Codestudent/Desktop/beginnerMongo/package.json",
+		"/C/Users/Codestudent/Desktop/index.html",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/login.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/layouts/main.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/models/sender.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/order.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/disclaimers.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/register.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/css/style.css",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/home.handlebars",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_Send to Suzie arrangements_handlebars.zip/arrangements_handlebars/models/sender.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/views/layouts/login.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/routes/pages.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/controllers/ctrlPages.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/node_modules/argparse/lib/utils.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/css/bootstrap-4.1.3.min.css",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/css/styles_home.css",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/home.handlebars",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements_handlebars/public/home.html",
+		"/C/Users/Codestudent/Desktop/Suzie/cart/scripts.js",
+		"/C/Users/Codestudent/Desktop/Suzie/quiz_ninja/index.html",
+		"/C/Users/Codestudent/Desktop/Suzie/quiz_ninja/styles.css",
+		"/C/Users/Codestudent/Desktop/Suzie/quiz_ninja/scripts.js",
+		"/C/Users/Codestudent/Desktop/VOORHEES/TicTacTerror_2.0/app/public/javascript/game.js",
+		"/C/Users/Codestudent/Desktop/TicTacTerror/TicTacTerror/server.js",
+		"/C/Users/Codestudent/Desktop/Suzie/cart/index.html",
+		"/C/Users/Codestudent/Desktop/Suzie/cart/list.js",
+		"/C/Users/Codestudent/Desktop/Suzie/cart/jquery.js",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements copy/public/index.html",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements copy/public/shopping cart.html",
+		"/C/Users/Codestudent/Desktop/Suzie/arrangements copy/js1.js",
+		"/C/Users/Codestudent/Desktop/Suzie/jquery.js",
+		"/C/Users/Codestudent/Desktop/Suzie/security_game/secgame.html",
+		"/C/Users/Codestudent/Desktop/Suzie/js.js",
+		"/C/Users/Codestudent/Desktop/Suzie/coin.html",
+		"/C/Users/Codestudent/Desktop/Amber/loveLan/LoveLanguageQuiz 2/js/jquery.min.js",
+		"/C/Users/Codestudent/Desktop/Suzie/index_game.html",
+		"/C/Users/Codestudent/Desktop/Suzie/team.html",
+		"/C/Users/Codestudent/Desktop/Suzie/diamond.html",
+		"/C/Users/Codestudent/Desktop/Suzie/bondBrothers.html",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/src/index.html",
+		"/C/Users/Codestudent/Desktop/FPI/app/routing/htmlRoutes.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/src/river.html",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/src/aces.html",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/src/change.html",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_app.zip/server.js",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_app.zip/app/routing/model/db.js",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_app.zip/app/routing/htmlRoutes.js",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_app.zip/app/routing/apiRoutes.js",
+		"/C/Users/Codestudent/AppData/Local/Temp/Temp1_app.zip/app/routing/assetRoutes.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/css/css/aces.css",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/src/acesQuiz.html",
+		"/C/Users/Codestudent/Desktop/Amber/Hangman/main.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/js/river.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/js/riverWorkBook.json",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/css/river.css",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/js/change.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/routing/apiRoutes.js",
+		"/C/Users/Codestudent/Desktop/fpi--parts/app/public/css/change.css",
+		"/C/Users/Codestudent/Desktop/FPI/server.js",
+		"/C/Users/Codestudent/Desktop/Hampton/Eloquent JS/Ch.5Exercises.js",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/change.html",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/css/change.css",
+		"/C/Users/Codestudent/Desktop/FPI/app/public/acesQuiz.html",
+		"/C/Users/Codestudent/Desktop/FPI/Untitled 1.odt",
+		"/C/Users/Codestudent/Desktop/Hampton/Eloquent JS/Ch.4Exercises.js",
+		"/C/Users/Codestudent/Desktop/VOORHEES/vocabley/vocabley/public/index.html",
+		"/C/Users/Codestudent/Desktop/vocableyBETA/app/public/signIn.html",
+		"/C/Users/Codestudent/Desktop/vocableyBETA/app/public/js/js.js",
+		"/C/Users/Codestudent/Desktop/Suzie/Halloween/styles.css",
+		"/C/Users/Codestudent/Desktop/Suzie/Robot/index.html",
+		"/C/Users/Codestudent/Desktop/Suzie/Robot/js.js",
+		"/C/Users/Codestudent/Desktop/Suzie/LearningJS/js.js",
+		"/C/Users/Codestudent/Desktop/Suzie/Mario/practiceGame.js",
+		"/C/Users/Codestudent/Desktop/Suzie/Halloween/js_trivia",
+		"/C/Users/Codestudent/Desktop/Amber/Tennis/mainTennis.js",
+		"/C/Users/Codestudent/Desktop/Amber/Tennis/indexTennis.html",
+		"/C/Users/Codestudent/Desktop/Amber/Tennis/mainTennis.css",
+		"/C/Users/Codestudent/Desktop/Amber/Tennis/jquery-3.3.1.js",
+		"/C/Users/Codestudent/Desktop/Amber/main.css",
+		"/C/Users/Codestudent/Desktop/Hampton/server.js",
+		"/C/Users/Codestudent/Desktop/vocableyBETA/app/public/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Peaceful Families</title> 
+   <link rel="stylesheet" type="text/css" href="/../css/main.css">
+</head>
+<body>
+        {{{body}}}
+<footer class="footer">
+   <div class="footer__logo-box">
+          <img src="/img/reallogo.png" alt="Logo" class="footer__logo">
+          <h4>Peaceful Families Program</h4>
+          <p><em class="em-1">&quot;For no one who is fettered to those he holds captive is ever, himself, free.&quot;<br>Gerry Spence</em></p>
+   </div>
+   <div class="row">
+      <div class="col-1-of-2">
+          <div class="footer__navigation">
+              <ul class="footer__list">
+                <li class="footer__item"><a href="*" class="footer__link">Family Peace Initiative</a></li>
+              </ul>
+          </div>
+      </div>
+   <div class="col-1-of-2">
+      <p class="footer__copyright">
+          <a href="#" class="footerN__link">Steven M.S. Halley</a>, LSCSW<br>
+          <a href="#" class="footerN__link">Dorthy Stucky Halley</a>, LMSW
+      </p>
+   </div>
+   </div>
+</footer>
+<div class="popup" id="logIn">
+  <div class="popup__content">
+     <div class="popup__right">
+        <a href="#nav" id="signInClose" class="popup__close">&times;</a>
+        <h2 class="def-head u-margin-bottom-small">Sign In To Your Account</h2>
+        <h3 class="center u-margin-bottom-small">Enter your information to log into your personal account.</h3>
+
+        <form class="signInForm" action="http://localhost:8080/signIn" method="POST">
+            <input name="email" placeholder="  email" autocomplete="off" required type="email" class="signInInput"><br>
+            <input name="password" placeholder="  password" autocomplete="off" required type="password" class="signInInput"><br>
+            <button type="submit" id="logInBtn">Log In</button>
+        </form> 
+
+        <p class="new">New to Peaceful Families?</p>
+        <h2 class="def-head u-margin-bottom-small">Create a New Account</h2>
+        <h3 class="center u-margin-bottom-small">Enter your information to create a new account.</h3>
+
+        <form class="newAcctForm" action="/createNewAccnt" method="POST">
+          <div class="divWrap">
+            <input autocomplete="off" required name='firstName' placeholder="  first name" class="signInInput" type="text">
+            <input autocomplete="off" required name='lastName' placeholder="  last name" class="signInInput" type="text">
+            <input autocomplete="off" required name='email' placeholder="  email" class="signInInput" type="email">
+            <input autocomplete="off" required name='password' placeholder="  password" class="signInInput" type="password">
+          </div>
+            <button type="submit" class="createNewBtn">create new account</button>
+        </form>  
+     </div>
+  </div>
+</div>
+</body>
+</html>

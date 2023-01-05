@@ -1,0 +1,112 @@
+
+<head>
+    <link rel="stylesheet" href="/css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="/css/myAcct.css">    
+</head>
+<body data-user="{{user}}">
+    <nav id="nav" class="nav">
+        <ul class="nav-list"></ul>
+            <li class="nav-list-item"><a href="/" class="nav-list-item">Sign Out</a></li>
+            <li class="nav-list-item"><a href="/indexAcct/{{user}}" class="nav-list-item">Home</a></li>
+            <li class="nav-list-item"><a href="/riverAcct/{{user}}" class="nav-list-item">The River of Cruelty</a></li>
+            <li class="nav-list-item"><a href="/changeAcct/{{user}}" class="nav-list-item">The Change Process</a></li>
+            <li class="nav-list-item"><a href="/acesAcct/{{user}}" class="nav-list-item">ACEs</a></li>
+        </ul>
+    </nav>
+    <header class="header">
+        <div class="header__logo-box">
+            <img src="/img/reallogo.png" alt="Logo" class="header__logo">
+        </div>
+        <div class="header__text-box">
+            <h1 class="heading-primary">
+                <span class="heading-primary--main">Peaceful Families</span>
+                <span class="heading-primary--sub">Justice Involved Women</span>
+            </h1>
+        </div>
+    </header>
+    <main>
+        <section class="section-about">
+        <section class="section-tours" id="section-tours">
+            <div class="u-center-text">
+                <h2 class="heading-secondary welcome">Welcome <span id="userName">
+                   </span></h2>
+            </div>
+
+           <section class="section-features">
+            <div class="row">
+                <div class="col-1-of-3">
+                    <div class="feature-box">
+                        <h3 class="heading-tertiary u-margin-bottom-small">My River</h3>
+                        <p class="feature-box__text"></p>
+                        <a href="#myRiver" class="btn btn--white">view</a> 
+                    </div>
+                </div>
+                <div class="col-1-of-3">
+                    <div class="feature-box">
+                        <h3 class="heading-tertiary u-margin-bottom-small">My Ace Score</h3>
+                        <p class="feature-box__text"></p>
+                        <a href="#myAces" class="btn btn--white">view</a>         
+                    </div>
+                </div>
+                <div class="col-1-of-3">
+                    <div class="feature-box">
+                         <h3 class="heading-tertiary u-margin-bottom-small">My Change Process</h3>
+                         <p class="feature-box__text"></p>
+                         <a href="#myChange" class="btn btn--white">view</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </section>
+            <form action="http://localhost:8080/indexAcct/{{user}}" method="GET">
+                <button type="submit" class="btn btn--home">Home</button>
+            </form>
+        </section>
+
+
+    </main>
+    
+    <section class="gallery">
+            <figure class="gallery__item gallery__item--1"><img src="/img/s.png" alt="Gallery image 1" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--2"><img src="/img/pic13.jpeg" alt="Gallery image 2" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--3"><img src="/img/head.png" alt="Gallery image 3" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--4"><img src="/img/2.png" alt="Gallery image 4" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--5"><img src="/img/story-1.jpeg" alt="Gallery image 5" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--6"><img src="/img/ddd.jpg" alt="Gallery image 6" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--7"><img src="/img/aboveRiver.png" alt="Gallery image 7" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--8"><img src="/img/manSky.png" alt="Gallery image 8" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--9"><img src="/img/fam.png" alt="Gallery image 9" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--10"><img src="/img/pic9.jpeg" alt="Gallery image 10" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--11"><img src="/img/pic2.jpeg" alt="Gallery image 11" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--12"><img src="/img/pic3.jpeg" alt="Gallery image 12" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--13"><img src="/img/reallogo.png" alt="Gallery image 13" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--14"><img src="/img/1.png" alt="Gallery image 14" class="gallery__img"></figure>
+        </section>
+     <div class="popup" id="myRiver">
+        <div class="popup__content">
+         <div class="popup__right">
+            <a href="#section-tours" id="riverClose" class="popup__close">&times;</a>
+            <div class="riverContainer"></div>                
+         </div>
+        </div>
+    </div>
+     <div class="popup" id="myAces">
+        <div class="popup__content">
+            <div class="popup__right">
+              <a href="#section-tours" class="popup__close">&times;</a>
+              <div class="aceContainer"></div>
+            </div>
+        </div>
+    </div>
+     <div class="popup" id="myChange">
+        <div class="popup__content">
+          <div class="popup__right">
+            <a href="#section-tours" class="popup__close">&times;</a>
+            <div class="progressContainer"></div>
+          </div>
+        </div>
+    </div>
+<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="/js/myAcct.js"></script>
+
+</body>
